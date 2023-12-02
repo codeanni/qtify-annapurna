@@ -13,3 +13,13 @@
     padding: 0px 32px 10px;
     width: 100%;
 }
+.section-header{
+    display: flex;
+    justify-content: space-between;
+}
+.section-toggle-btn{
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--css-primary);
+    cursor: pointer;
+}
